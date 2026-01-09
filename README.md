@@ -12,4 +12,4 @@ Cette problématique est assez vaste, et nous laisse l'opportunité d'étudier p
 - La crise d’électricité en 2022 a-t-elle eu un réel impact sur la consommation ? 
 -  Est-ce que la Finale de la CDM 2018 et 2022 a eu un impact sur la consommation d’électricité ?
 
-Les sources utilisées seront présents à la fin du compte-rendu et les fichiers extraits des sources seront présent dans le dépôt avec le code et le compte-rendu.
+Les sources utilisées seront présents à la fin du compte-rendu et les fichiers extraits des sources seront présents dans le dépôt avec le code et le compte-rendu.
