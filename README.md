@@ -4,10 +4,8 @@ Observer les variations de la consommation d'électricité dans la journée
 
 Cette problématique est assez vaste, et nous laisse l'opportunité d'étudier plusieurs sous-questions. Voici une liste des sujets que nous traiterons dans ce projet.
 
-- À quelles heures à lieu le pic de consommation ?
-- À quelles heures la consommation est-elle la plus faible ? 
-- Y a-t-il une différence entre jours ouvrés et week-end ? 
-- Observe-t-on le même profil en été et en hiver ? 
+- À quelles heures à lieu le pic de consommation ? À quelles heures la consommation est-elle la plus faible ? 
+- Y a-t-il une différence entre jours ouvrés et week-end ?  
 - La période de vacances scolaires augmente la consommation électrique ? 
 - Quel impact le covid a eu sur la consommation d’électricité en France ?  
 - La crise d’électricité en 2022 a-t-elle eu un réel impact sur la consommation ? 
